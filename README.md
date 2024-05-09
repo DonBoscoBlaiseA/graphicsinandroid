@@ -102,7 +102,8 @@ public class MainActivity extends AppCompatActivity {
 ```  
 
 ## OUTPUT
-<img src="https://github.com/DonBoscoBlaiseA/graphicsinandroid/assets/140850829/6c6bb402-6189-411e-b67e-2b1fddfbb76e.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/graphicsinandroid/assets/140850829/6c6bb402-6189-411e-b67e-2b1fddfbb76e.png" width="600">  
+
 <img src="https://github.com/DonBoscoBlaiseA/graphicsinandroid/assets/140850829/2cf394d6-94e1-4190-b860-3ab0c1ae3dfc.png" height="600">
 
 ## RESULT
